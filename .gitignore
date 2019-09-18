@@ -1,0 +1,8 @@
+# scala files
+
+*.class
+*.log
+
+# sbt target files
+
+target/
